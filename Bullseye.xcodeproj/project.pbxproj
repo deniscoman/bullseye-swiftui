@@ -13,6 +13,7 @@
 		D446C57224976B0900EF2FEE /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D446C57124976B0900EF2FEE /* Assets.xcassets */; };
 		D446C57524976B0900EF2FEE /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D446C57424976B0900EF2FEE /* Preview Assets.xcassets */; };
 		D446C57824976B0900EF2FEE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D446C57624976B0900EF2FEE /* LaunchScreen.storyboard */; };
+		D446C5802497C1DD00EF2FEE /* AboutView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D446C57F2497C1DD00EF2FEE /* AboutView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D446C57424976B0900EF2FEE /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		D446C57724976B0900EF2FEE /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D446C57924976B0900EF2FEE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D446C57F2497C1DD00EF2FEE /* AboutView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				D446C57624976B0900EF2FEE /* LaunchScreen.storyboard */,
 				D446C57924976B0900EF2FEE /* Info.plist */,
 				D446C57324976B0900EF2FEE /* Preview Content */,
+				D446C57F2497C1DD00EF2FEE /* AboutView.swift */,
 			);
 			path = Bullseye;
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D446C5802497C1DD00EF2FEE /* AboutView.swift in Sources */,
 				D446C56C24976B0800EF2FEE /* AppDelegate.swift in Sources */,
 				D446C56E24976B0800EF2FEE /* SceneDelegate.swift in Sources */,
 				D446C57024976B0800EF2FEE /* ContentView.swift in Sources */,
